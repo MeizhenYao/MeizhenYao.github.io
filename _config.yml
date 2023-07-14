@@ -83,12 +83,10 @@ author:
   name             : "Meizhen Yao"
   avatar           : "profile.png"
   bio              : "Biostatistician in Environmental Epidemiology"
-  location         : "Manhattan, NY"
-  employer         : "Ichan School of Medicine, Mount Sinai"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Mount Sinai"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=OaFfIWcAAAAJ"
   email            : "meizhen.yao@mssm.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@meizhen_yao"
+  twitter          : "https://twitter.com/meizhen_yao"
   vine             :
   weibo            :
   xing             :
