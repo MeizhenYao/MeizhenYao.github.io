@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Meizhen Yao"
+title                    : "About"
 title_separator          : "-"
-name                     : &name 
+name                     : "Meizhen Yao"
 description              : &description "Biostatistician in Environmental Epidemiology"
 url                      : https://meizhenyao.github.io/ # the base hostname & protocol for your site e.g. "https://meizhenyao.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
