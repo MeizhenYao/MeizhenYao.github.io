@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "About"
 title_separator          : "-"
-name                     : "Meizhen Yao"
+name                     : 
 description              : &description "Biostatistician in Environmental Epidemiology"
 url                      : https://meizhenyao.github.io/ # the base hostname & protocol for your site e.g. "https://meizhenyao.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,37 +83,14 @@ author:
   name             : "Meizhen Yao"
   avatar           : "profile.png"
   bio              : "Biostatistician in Environmental Epidemiology"
-  employer         : "Mount Sinai"
+  employer         : "Mount Sinai, NY"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=OaFfIWcAAAAJ"
   email            : "meizhen.yao@mssm.edu"
-  researchgate     :  
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "https://github.com/MeizhenYao"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         : "meizhen-yao-a9b8a6197"
   orcid            : "https://orcid.org/0000-0003-1765-7255"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
   twitter          : "https://twitter.com/meizhen_yao"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
+ 
 
 # Reading Files
 include:
