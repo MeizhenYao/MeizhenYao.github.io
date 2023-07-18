@@ -20,7 +20,7 @@ author_profile: true
 
 1. <span style="text-align: justify"> Maria D Politis, <span style ="color:blue">Meizhen Yao</span>, Chris Gennings, Marcela Tamayo-Ortiz, Damaskini Valvi, Seunghee Kim-Schulze, Jingjing Qi, Chitra Amarasiriwardena, Ivan Pantic, Mari Cruz Tolentino, Guadalupe Estrada-Gutierrez, Jason H Greenberg, Martha M Téllez-Rojo, Robert O Wright, Alison P Sanders, Maria José Rosa,  <span style ="color:purple"> [**Prenatal Metal Exposures and Associations with Kidney Injury Biomarkers in Children**](https://doi.org/10.3390/toxics10110692)</span>, **_Toxics_**, 2022, 10(11), 692. </span>
 
-1. <span style="text-align: justify"> Anna H Green, Julianne M Forlizzi, Joseph Boyle, Wilfrido J Castillo, Daniel Mascarenhas, <span style ="color:blue">Meizhen Yao</span>, Geza Kiss, Carlos Sagebien,  <span style ="color:purple"> [**Estimating the nosocomial transmission rate of COVID-19 in orthopaedic surgery patients during the peak of the pandemic**](10.2147/ORR.S361116)</span>, **_Orthopedic research and reviews_**, 2022 Vol. 14. </span>
+1. <span style="text-align: justify"> Anna H Green, Julianne M Forlizzi, Joseph Boyle, Wilfrido J Castillo, Daniel Mascarenhas, <span style ="color:blue">Meizhen Yao</span>, Geza Kiss, Carlos Sagebien,  <span style ="color:purple"> [**Estimating the nosocomial transmission rate of COVID-19 in orthopaedic surgery patients during the peak of the pandemic**](https://www.tandfonline.com/doi/full/10.2147/ORR.S361116)</span>, **_Orthopedic research and reviews_**, 2022 Vol. 14. </span>
 
 
 
