@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Perfluoroalkyl substances and incident type 2 diabetes in a multi-ethnic population: A metabolome - genome investigation"
+excerpt: "PFAS vs. human proteome<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
