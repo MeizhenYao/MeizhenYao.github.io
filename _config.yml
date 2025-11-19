@@ -82,14 +82,12 @@ analytics:
 author:
   name             : "Meizhen Yao"
   avatar           : "profile.png"
-  bio              : "Biostatistician in Environmental Epidemiology"
-  employer         : "Mount Sinai, NY"
+  bio              : "PhD student in Environmental Health Sciences"
+  employer         : "University of Michigan, Ann Arbor"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=OaFfIWcAAAAJ"
-  email            : "meizhen.yao@mssm.edu"
+  email            : "meizhen@umich.edu"
   github           : "MeizhenYao"
   linkedin         : "meizhen-yao-a9b8a6197"
-  orcid            : "https://orcid.org/0000-0003-1765-7255"
-  twitter          : "https://twitter.com/meizhen_yao"
  
 
 # Reading Files
